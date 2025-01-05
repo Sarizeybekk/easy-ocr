@@ -38,4 +38,4 @@ This project is a **Streamlit**-based application for extracting and parsing rec
 
 1. **📥 Clone the Repository**:
    ```bash
-   
+   git clone  https://github.com/Sarizeybekk/easy-ocr.git
