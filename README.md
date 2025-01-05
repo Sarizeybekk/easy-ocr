@@ -39,3 +39,9 @@ This project is a **Streamlit**-based application for extracting and parsing rec
 1. **📥 Clone the Repository**:
    ```bash
    git clone  https://github.com/Sarizeybekk/easy-ocr.git
+
+Project 
+![image](https://github.com/user-attachments/assets/98480a58-269d-444c-a4c3-32d58ba0c5e1)
+![image](https://github.com/user-attachments/assets/c66fc111-874f-40b6-bd38-765a5130a75e)
+
+streamlit run main.py
